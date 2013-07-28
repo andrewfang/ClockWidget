@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ClockWidget/ClockWidget.iml" filepath="$PROJECT_DIR$/ClockWidget/ClockWidget.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ClockWidgetProject.iml" filepath="$PROJECT_DIR$/ClockWidgetProject.iml" />
+    </modules>
+  </component>
+</project>
+

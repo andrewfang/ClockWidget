@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- From: file:/Users/Andrew/Documents/workspace/ClockWidgetProject/ClockWidget/src/main/res/values-sw720dp-land/dimens.xml -->
+    <dimen name="activity_horizontal_margin">128dp</dimen>
+    <dimen name="date_font_size">25dp</dimen>
+    <dimen name="time_font_size">120dp</dimen>
+
+</resources>
